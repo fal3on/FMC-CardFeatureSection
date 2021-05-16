@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/solution-to-four-card-feature-section-using-flexbox-css-grid-g0PspSUcH)
+- Live Site URL: [Live site](https://fmc-card-feature-section.vercel.app/)
 
 ## My process
 
